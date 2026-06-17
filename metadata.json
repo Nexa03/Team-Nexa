@@ -1,0 +1,6 @@
+{
+  "name": "Maverick OCR",
+  "description": "Automated product information extraction app utilizing on-device ML Kit OCR for the GDSS-Maverick Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
